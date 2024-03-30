@@ -18,3 +18,4 @@ How to open with android studio steps
 7 Run 
 
 Is project main Ek sreen sa dusri screen mai ja raha hai button click karna ka bad
+Gandu hua?
